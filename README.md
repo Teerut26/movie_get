@@ -1,3 +1,3 @@
 # movie_get
 <h1>Movie_GET</h1>
-<img scr="./Capture.PNG">
+<img src="https://raw.githubusercontent.com/Teerut26/movie_get/master/Capture.PNG"/>
